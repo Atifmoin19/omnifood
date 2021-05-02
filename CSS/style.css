@@ -610,7 +610,7 @@ content: "";
 display: table;
 }
 .test{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/back-customers.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/back-customers.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
